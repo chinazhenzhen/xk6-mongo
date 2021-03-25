@@ -1,11 +1,3 @@
-/*
-Copyright (c) 2020 Baidu, Inc. All Rights Reserved
-# Author        :  mazhen04
-# Organization  :  Baidu-inc
-# Created Time  : 2021/3/24 8:12 下午
-# File Name     : mongo
-# Description   :
-*/
 
 package xk6_mongo
 
