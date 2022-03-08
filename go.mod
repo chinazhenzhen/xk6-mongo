@@ -1,4 +1,4 @@
-module github.com/b1uema/xk6-mongo
+module github.com/shiropika/xk6-mongo
 
 go 1.15
 
